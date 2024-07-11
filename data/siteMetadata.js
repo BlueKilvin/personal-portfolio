@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Portfolio',
+  title: 'MSAnvari',
   author: 'Mohammad Seifanvari',
-  headerTitle: 'NextJSBlog',
+  headerTitle: 'Mohammad\'s Portfolio',
   description: 'A portfolio created with Next.js and Tailwind.css',
   language: 'en-gb',
   theme: 'system', // system, dark or light
@@ -11,9 +11,9 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
   mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  linkedin: 'https://www.linkedin.com',
+  email: 'mohammad@msanvari.com',
+  github: 'https://github.com/BlueKilvin',
+  linkedin: 'https://www.linkedin.com/in/msanvari',
   locale: 'en-GB',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
