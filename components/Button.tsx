@@ -1,10 +1,11 @@
-import React, { Children } from 'react'
 import Link from './Link'
 
-const Button = ({title, href}) => {
+const Button = ({ title, href}) => {
   return (
     <div>
-        <button><Link href={href}>{title}</Link></button>
+        <button>
+          <Link href={href}>{title}</Link>
+        </button>
     </div>
   )
 }
