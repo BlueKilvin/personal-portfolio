@@ -13,14 +13,14 @@ const Home = () => {
           <h2 className="text-6xl font-bold">Mohammad Seifanvari</h2>
           <h3 className="text-5xl font-bold text-gray-400">I'm a full-stack software engineer</h3>
           <p className="max-w-md pt-7 text-lg text-gray-400">
-            Designing and building infrastuctures and user experiences alike. I've been traveling 
-            and upskilling for the past year and now I'm looking for new opportunities.
+            Designing and building infrastuctures and user experiences alike. 
+            I've been traveling and upskilling for the past year and now I'm looking for new opportunities.
           </p>
         </div>
 
         <div className="flex flex-row space-x-5">
-          <Button title="Learn More About Me" href="/about"></Button>
-          <Button title="See Some Of My Work" href="/projects"></Button>
+          <Button href="/about">Learn More About Me</Button>
+          <Button href="/projects">See Some Of My Work</Button>
         </div>
       </div>
     </div>
