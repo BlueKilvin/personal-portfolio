@@ -2,7 +2,7 @@
 const siteMetadata = {
   title: 'MSAnvari',
   author: 'Mohammad Seifanvari',
-  headerTitle: 'Mohammad\'s Portfolio',
+  headerTitle: '',
   description: 'A portfolio created with Next.js and Tailwind.css',
   language: 'en-gb',
   theme: 'system', // system, dark or light
