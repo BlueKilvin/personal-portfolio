@@ -1,11 +1,13 @@
 import { sortPosts, allCoreContent } from 'pliny/utils/contentlayer'
 import { allBlogs } from 'contentlayer/generated'
 import React from 'react'
+import { Butterfly_Kids } from 'next/font/google'
+import Button from '@/components/Button'
 
 const Home = () => {
   return (
     <div className='mt-32 flex justify-center items-center'>
-      <div className='space-y-16'>
+      <div className='space-y-10'>
 
         <div className='space-y-2'>
           <h1 className='font-mono text-purple-500 text-xl'>Hello, my name is</h1>
@@ -17,9 +19,9 @@ const Home = () => {
           </p>
         </div>
 
-        <div>
-          <button>Learn More about Me</button>
-          <button>See Some of My Work</button>
+        <div className='space-x-5 flex flex-row'>
+          <Button href="/about">Learn More About Me</Button>
+          <Button href="/projects">See Some Of My Work</Button>
         </div>
 
       </div>
