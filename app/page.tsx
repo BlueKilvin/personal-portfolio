@@ -19,8 +19,8 @@ const Home = () => {
         </div>
 
         <div className="flex flex-row space-x-5">
-          <Button href="/about">Learn More About Me</Button>
-          <Button href="/projects">See Some Of My Work</Button>
+          <Button href="/about">Learn more about Me</Button>
+          <Button href="/projects">See Some of my Work</Button>
         </div>
       </div>
     </div>

@@ -1,3 +1,100 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="344.5639097744361 330.27819548872174 111.73684210526318 91.21804511278197" width="53.87" height="43.61"><defs><path d="M453.3 331.28L453.3 359.85L388.64 418.5L388.64 388.42L453.3 331.28Z" id="aFZf6T5ED"></path><linearGradient id="gradientb2ThqnP5Op" gradientUnits="userSpaceOnUse" x1="420.97" y1="331.28" x2="420.97" y2="418.5"><stop style="stop-color: #06b6d4;stop-opacity: 1" offset="0%"></stop><stop style="stop-color: #67e8f9;stop-opacity: 1" offset="100%"></stop></linearGradient><path d="M410.23 331.28L410.23 359.85L345.56 418.5L345.56 388.42L410.23 331.28Z" id="a9fehgwfM"></path><linearGradient id="gradientk1wNV9Ostb" gradientUnits="userSpaceOnUse" x1="377.89" y1="331.28" x2="377.89" y2="418.5"><stop style="stop-color: #06b6d4;stop-opacity: 1" offset="0%"></stop><stop style="stop-color: #67e8f9;stop-opacity: 1" offset="100%"></stop></linearGradient></defs><g><g><use xlink:href="#aFZf6T5ED" opacity="1" fill="url(#gradientb2ThqnP5Op)"></use></g><g><use xlink:href="#a9fehgwfM" opacity="1" fill="url(#gradientk1wNV9Ostb)"></use></g></g></svg>
+<svg
+   version="1.1"
+   preserveAspectRatio="xMidYMid meet"
+   viewBox="344.5639097744361 330.27819548872174 111.73684210526318 91.21804511278197"
+   width="53.87"
+   height="43.61"
+   id="svg288"
+   sodipodi:docname="logo2.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview290"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="19.192845"
+     inkscape:cx="26.937121"
+     inkscape:cy="21.831052"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg288" />
+  <defs
+     id="defs276">
+    <path
+       d="M453.3 331.28L453.3 359.85L388.64 418.5L388.64 388.42L453.3 331.28Z"
+       id="aFZf6T5ED" />
+    <linearGradient
+       id="gradientb2ThqnP5Op"
+       gradientUnits="userSpaceOnUse"
+       x1="420.97"
+       y1="331.28"
+       x2="420.97"
+       y2="418.5">
+      <stop
+         style="stop-color: #06b6d4;stop-opacity: 1"
+         offset="0%"
+         id="stop265" />
+      <stop
+         style="stop-color: #67e8f9;stop-opacity: 1"
+         offset="100%"
+         id="stop267" />
+    </linearGradient>
+    <path
+       d="M410.23 331.28L410.23 359.85L345.56 418.5L345.56 388.42L410.23 331.28Z"
+       id="a9fehgwfM" />
+    <linearGradient
+       id="gradientk1wNV9Ostb"
+       gradientUnits="userSpaceOnUse"
+       x1="377.89"
+       y1="331.28"
+       x2="377.89"
+       y2="418.5">
+      <stop
+         style="stop-color: #06b6d4;stop-opacity: 1"
+         offset="0%"
+         id="stop271" />
+      <stop
+         style="stop-color: #67e8f9;stop-opacity: 1"
+         offset="100%"
+         id="stop273" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g286"
+     style="fill:#7500ca;fill-opacity:1">
+    <g
+       id="g280"
+       style="fill:#7500ca;fill-opacity:1">
+      <use
+         xlink:href="#aFZf6T5ED"
+         opacity="1"
+         fill="url(#gradientb2ThqnP5Op)"
+         id="use278"
+         style="fill:#7500ca;fill-opacity:1" />
+    </g>
+    <g
+       id="g284"
+       style="fill:#7500ca;fill-opacity:1">
+      <use
+         xlink:href="#a9fehgwfM"
+         opacity="1"
+         fill="url(#gradientk1wNV9Ostb)"
+         id="use282"
+         style="fill:#7500ca;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
