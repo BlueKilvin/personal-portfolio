@@ -27,7 +27,7 @@ export default function Footer() {
         <div className="mb-10 text-sm text-gray-500 dark:text-gray-400">
           Built with{' '}
           <a
-            className="text-white hover:text-primary-500"
+            className="underline hover:text-primary-500"
             href="https://nextjs.org/"
             target="_blank"
           >
@@ -35,7 +35,7 @@ export default function Footer() {
           </a>
           ,
           <a
-            className="text-white hover:text-primary-500"
+            className="underline hover:text-primary-500"
             href="https://tailwindcss.com/"
             target="_blank"
           >
@@ -43,7 +43,7 @@ export default function Footer() {
           </a>
           , and{' '}
           <a
-            className="text-white hover:text-primary-500"
+            className="underline hover:text-primary-500"
             href="https://www.framer.com/motion/"
             target="_blank"
           >
@@ -51,7 +51,7 @@ export default function Footer() {
           </a>
           . Deployed with{' '}
           <a
-            className="text-white hover:text-primary-500"
+            className="underline hover:text-primary-500"
             href="https://www.netlify.com/"
             target="_blank"
           >
