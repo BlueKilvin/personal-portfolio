@@ -16,7 +16,7 @@ const projectsData: Project[] = [
   {
     title: '3D Reconstruction of the Moon in VR',
     description: `A 3D photorealistic reconstruction of the moon with VR capabilities, created for my final year university project. 
-    Programmed in JavaScript and with WebGL and WebXR.`,
+    Programmed in JavaScript with WebGL and WebXR.`,
     imgSrc: '/static/images/Moon.png',
     href: 'https://github.com/BlueKilvin/VR-3D-Reconstruction',
   },
@@ -29,7 +29,8 @@ const projectsData: Project[] = [
   },
   {
     title: 'Gacha Analytics Software',
-    description: `A set of probability distribution analytics and modeling programs, compatible with multiple games.`,
+    description: `A set of probability distribution analytics and modeling programs, compatible with multiple games.
+    Written completely in Python.`,
     imgSrc: '/static/images/Gacha-analytics.png',
     href: 'https://github.com/BlueKilvin/Gacha-Analytics',
   },

@@ -6,7 +6,7 @@
    width="53.87"
    height="43.61"
    id="svg288"
-   sodipodi:docname="logo2.svg"
+   sodipodi:docname="logo.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="19.192845"
-     inkscape:cx="26.937121"
+     inkscape:cx="26.129529"
      inkscape:cy="21.831052"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -75,7 +75,8 @@
   </defs>
   <g
      id="g286"
-     style="fill:#7500ca;fill-opacity:1">
+     style="fill:#7500ca;fill-opacity:1"
+     transform="matrix(-1,0,0,1,798.86,0)">
     <g
        id="g280"
        style="fill:#7500ca;fill-opacity:1">
@@ -97,4 +98,11 @@
          style="fill:#7500ca;fill-opacity:1" />
     </g>
   </g>
+  <rect
+     style="opacity:1;fill:#7500ca;stroke:none;stroke-width:6.39277;fill-opacity:1"
+     id="rect851"
+     width="22.777266"
+     height="59.72221"
+     x="345.5098"
+     y="358.94049" />
 </svg>
