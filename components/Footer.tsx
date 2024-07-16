@@ -33,7 +33,7 @@ export default function Footer() {
           >
             Next.js
           </a>
-          ,
+          , &nbsp;
           <a
             className="underline hover:text-primary-500"
             href="https://tailwindcss.com/"
